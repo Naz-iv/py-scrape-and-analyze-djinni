@@ -1,0 +1,9 @@
+flake8==5.0.4
+flake8-annotations==2.9.1
+flake8-quotes==3.3.1
+flake8-variables-names==0.0.5
+pep8-naming==0.13.2
+Scrapy~=2.11.0
+pandas==1.4.3
+numpy==1.23.1
+jupyter==1.0.0
