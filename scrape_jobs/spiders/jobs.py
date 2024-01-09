@@ -83,4 +83,4 @@ class JobsSpider(scrapy.Spider):
             "div.job-post-page > div > div.row-mobile-order-2 > div.mb-4::text"
         ).getall()).replace("\n", "").upper().split())
 
-        return data.intersection(TECHNOLOGIES)
+        return list(data.intersection(TECHNOLOGIES))

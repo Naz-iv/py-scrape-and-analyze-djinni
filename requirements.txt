@@ -10,3 +10,4 @@ jupyter==1.0.0
 itemadapter~=0.8.0
 nlpk==0.0.6
 matplotlib==3.8.2
+seaborn==0.13.1
