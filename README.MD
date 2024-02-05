@@ -18,6 +18,21 @@ conducting an in-depth analysis of vacancies.
 - Technology Trends: Identifies and presents the most commonly mentioned technologies in job postings.
 
 
+
+## Analysis
+
+- Bar plot with number of open positions based on candidate experience.
+
+![](\anylize\plots\bar_plot_seniority.png)
+
+- Bar plot for number of open positions based on required English level.
+
+![](\anylize\plots\bar_plot_english_level.png)
+
+- Most required technologies with numbers of positions they mentioned in.
+
+![](\anylize\plots\bar_plot_technology_overview.png)
+
 ## How to Use
 
 Follow these simple steps to get started with the project:

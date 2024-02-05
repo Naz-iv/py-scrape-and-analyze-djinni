@@ -1,4 +1,3 @@
-
 BOT_NAME = "scrape_jobs"
 
 SPIDER_MODULES = ["scrape_jobs.spiders"]
